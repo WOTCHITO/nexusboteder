@@ -35,7 +35,7 @@ global.bot = {
 }
 
 global.mods = [
-  '5492916450307'
+  '573033342288'
 ]
 
 global.mess = {
